@@ -31,7 +31,7 @@ Ensured the data was appropriately formatted for direct use in Power BI, facilit
 
 # Technologies Used:
 
-  Web Scraping: Bright Data (Third-party Web Scraper)
+Web Scraping: Bright Data (Third-party Web Scraper)
   Programming Language: Python
   Data Manipulation: Pandas
   Data Visualization: Power BI
