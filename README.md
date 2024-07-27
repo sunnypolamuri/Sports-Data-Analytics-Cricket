@@ -30,10 +30,11 @@ Ensured the data was appropriately formatted for direct use in Power BI, facilit
   Cricket World Cup 2022.
 
 # Technologies Used:
-Web Scraping: Bright Data (Third-party Web Scraper)
-Programming Language: Python
-Data Manipulation: Pandas
-Data Visualization: Power BI
+
+  Web Scraping: Bright Data (Third-party Web Scraper)
+  Programming Language: Python
+  Data Manipulation: Pandas
+  Data Visualization: Power BI
 
 # Outcomes:
 The project produced dynamic and informative dashboards that provided actionable insights for cricket team management, coaches, and enthusiasts, aiding in strategizing and selecting the best playing 11 for the ICC Cricket World Cup 2022.
