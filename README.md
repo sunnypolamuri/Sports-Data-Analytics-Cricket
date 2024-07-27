@@ -17,13 +17,17 @@ Used Python and Pandas to convert the JSON data into CSV format.
 Ensured the data was appropriately formatted for direct use in Power BI, facilitating easier table joining and analysis.
 
 3.Power BI Dashboard Creation:
-Utilized Power Query in Power BI to further clean and prepare the data for analysis.
-Developed dynamic dashboards featuring interactive charts and visualizations, showcasing metrics for different player roles such as power hitters, middle-order batsmen, and bowlers.
-These dashboards delivered valuable insights into player performance, team strengths, and potential areas for improvement.
+
+  Utilized Power Query in Power BI to further clean and prepare the data for analysis.
+  Developed dynamic dashboards featuring interactive charts and visualizations, showcasing metrics for different player 
+  roles such as power hitters, middle-order batsmen, and bowlers.
+  These dashboards delivered valuable insights into player performance, team strengths, and potential areas for improvement.
 
 4.Forming the Best Playing 11:
-Conducted data-driven analysis to determine the best playing 11, based on the insights obtained from the dashboards.
-Selected the optimal combination of players to maximize team performance and enhance the chances of success in the ICC Cricket World Cup 2022.
+
+  Conducted data-driven analysis to determine the best playing 11, based on the insights obtained from the dashboards.
+  Selected the optimal combination of players to maximize team performance and enhance the chances of success in the ICC 
+  Cricket World Cup 2022.
 
 # Technologies Used:
 Web Scraping: Bright Data (Third-party Web Scraper)
