@@ -8,7 +8,8 @@ The goal of this project was to utilize data analytics to identify the optimal p
 
 1.Web Scraping Data from ESPN Cricinfo:
 
-Employed the third-party web scraper "Bright Data" to gather comprehensive information from ESPN Cricinfo, including match details, results, and player statistics for batting and bowling.  Stored the extracted data in JSON format for subsequent processing.
+Employed the third-party web scraper "Bright Data" to gather comprehensive information from ESPN Cricinfo, including match details, results, and player statistics for batting and bowling.  
+   Stored the extracted data in JSON format for subsequent processing.
 
 2.Data Transformation and Conversion:
 
